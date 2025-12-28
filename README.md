@@ -29,8 +29,6 @@ This project features a **Hybrid C++/Python Architecture** to strike the perfect
 
 Watch how the system performs on a sample video:
 
-<video src="demo.mp4" controls="controls" style="max-width: 100%;">
-</video>
 
 ## 🏗 System Architecture
 

@@ -30,6 +30,8 @@ This project features a **Hybrid C++/Python Architecture** to strike the perfect
 Watch how the system performs on a sample video:
 
 
+https://github.com/user-attachments/assets/1c4208ee-a63a-442d-b420-29d4813d44f4
+
 ## 🏗 System Architecture
 
 The system consists of two main components:
